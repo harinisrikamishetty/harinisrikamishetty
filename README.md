@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Harini Sri
 
-<!--
-**harinisrikamishetty/harinisrikamishetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (Data Science) Student  
+📊 Interested in Data Analytics and Data Science  
+💻 Currently learning Python, SQL, Excel, and Power BI  
+📈 Passionate about analyzing data and solving real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning Data Analytics  
+- 💡 Interested in Data Visualization and AI  
+- 🎯 Goal: To become a Data Analyst  
+- 📚 Working on improving my technical skills step by step  
+
+---
+
+## 🛠️ Skills
+- Python (Beginner)  
+- SQL (Beginner)  
+- Microsoft Excel  
+- Data Analysis  
+- Data Visualization  
+
+---
+
+## 📂 Projects
+- 🔹 Will be uploading my projects soon   
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: (www.linkedin.com/in/harinisri-kamishetty-603237403)
+
+---
+
+⭐ Thank you for visiting my profile!
