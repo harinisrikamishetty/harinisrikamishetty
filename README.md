@@ -18,7 +18,8 @@
 ## 🛠️ Skills
 - Python (Beginner)  
 - SQL (Beginner)  
-- Microsoft Excel  
+- Microsoft Excel
+- Microsoft PowerBI 
 - Data Analysis  
 - Data Visualization  
 
