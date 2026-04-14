@@ -30,7 +30,8 @@
 ---
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: (www.linkedin.com/in/harinisri-kamishetty-603237403)
+- 🔗 LinkedIn: www.linkedin.com/in/harinisri-kamishetty-603237403
+- 🔗 Email    : harinisrikamishetty@gmail.com
 
 ---
 
